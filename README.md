@@ -11,5 +11,3 @@
 </details>
 
 [youtube]: https://www.youtube.com/channel/UCAggRo2oXYpadRJCmITnoVA
-
-## Here's one of my codes that i've done in the past! Hope you learn something from it!
